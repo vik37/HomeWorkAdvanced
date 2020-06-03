@@ -1,0 +1,16 @@
+C:\Users\vikto\source\repos\rockPaperScissors\rockPaperScissors\bin\Debug\netcoreapp3.1\rockPaperScissors.exe
+C:\Users\vikto\source\repos\rockPaperScissors\rockPaperScissors\bin\Debug\netcoreapp3.1\rockPaperScissors.deps.json
+C:\Users\vikto\source\repos\rockPaperScissors\rockPaperScissors\bin\Debug\netcoreapp3.1\rockPaperScissors.runtimeconfig.json
+C:\Users\vikto\source\repos\rockPaperScissors\rockPaperScissors\bin\Debug\netcoreapp3.1\rockPaperScissors.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\rockPaperScissors\rockPaperScissors\bin\Debug\netcoreapp3.1\rockPaperScissors.dll
+C:\Users\vikto\source\repos\rockPaperScissors\rockPaperScissors\bin\Debug\netcoreapp3.1\rockPaperScissors.pdb
+C:\Users\vikto\source\repos\rockPaperScissors\rockPaperScissors\obj\Debug\netcoreapp3.1\rockPaperScissors.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\rockPaperScissors\rockPaperScissors\obj\Debug\netcoreapp3.1\rockPaperScissors.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\rockPaperScissors\rockPaperScissors\obj\Debug\netcoreapp3.1\rockPaperScissors.AssemblyInfo.cs
+C:\Users\vikto\source\repos\rockPaperScissors\rockPaperScissors\obj\Debug\netcoreapp3.1\rockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\rockPaperScissors\rockPaperScissors\obj\Debug\netcoreapp3.1\rockPaperScissors.dll
+C:\Users\vikto\source\repos\rockPaperScissors\rockPaperScissors\obj\Debug\netcoreapp3.1\rockPaperScissors.pdb
+C:\Users\vikto\source\repos\rockPaperScissors\rockPaperScissors\obj\Debug\netcoreapp3.1\rockPaperScissors.genruntimeconfig.cache
+C:\Users\vikto\source\repos\rockPaperScissors\rockPaperScissors\bin\Debug\netcoreapp3.1\ReturnNumberString.dll
+C:\Users\vikto\source\repos\rockPaperScissors\rockPaperScissors\bin\Debug\netcoreapp3.1\ReturnNumberString.pdb
+C:\Users\vikto\source\repos\rockPaperScissors\rockPaperScissors\obj\Debug\netcoreapp3.1\rockPaperScissors.csproj.CopyComplete

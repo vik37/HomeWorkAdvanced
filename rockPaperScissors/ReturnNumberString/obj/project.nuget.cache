@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gzi+064o1R67PKAB0vYg81gaxVL/G5G8PCyC6qzkVePyPir1kpKlPFpRTgp0FcPCJkpY/S/Hn2rOSnYiE5KvyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vikto\\source\\repos\\rockPaperScissors\\ReturnNumberString\\ReturnNumberString.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vikto\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

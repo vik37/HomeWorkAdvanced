@@ -1,0 +1,8 @@
+C:\Users\vikto\source\repos\rockPaperScissors\ReturnNumberString\bin\Debug\netcoreapp3.1\ReturnNumberString.deps.json
+C:\Users\vikto\source\repos\rockPaperScissors\ReturnNumberString\bin\Debug\netcoreapp3.1\ReturnNumberString.dll
+C:\Users\vikto\source\repos\rockPaperScissors\ReturnNumberString\bin\Debug\netcoreapp3.1\ReturnNumberString.pdb
+C:\Users\vikto\source\repos\rockPaperScissors\ReturnNumberString\obj\Debug\netcoreapp3.1\ReturnNumberString.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\rockPaperScissors\ReturnNumberString\obj\Debug\netcoreapp3.1\ReturnNumberString.AssemblyInfo.cs
+C:\Users\vikto\source\repos\rockPaperScissors\ReturnNumberString\obj\Debug\netcoreapp3.1\ReturnNumberString.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\rockPaperScissors\ReturnNumberString\obj\Debug\netcoreapp3.1\ReturnNumberString.dll
+C:\Users\vikto\source\repos\rockPaperScissors\ReturnNumberString\obj\Debug\netcoreapp3.1\ReturnNumberString.pdb
