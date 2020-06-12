@@ -10,15 +10,19 @@ namespace Excsercise2_del2
     public class DataBase
     {
         public static int Points;
+       
         public static List<Students> GetAllStudents()
         {
+            
             return new List<Students>()
             {
                 new Students(){UserName = "Mitko",Password = "1256mk",SumOfPoints = 0},
                 new Students(){UserName = "Pako",Password = "mko32",SumOfPoints = 8},
-                new Students(){UserName = "Angelina",Password = "Nema_veze",SumOfPoints = 0}                
+                new Students(){UserName = "Angelina",Password = "Nema_veze",SumOfPoints = 0},
+                
             };
         }
+                 
         public static List<Teachers> GetAllTeachers()
         {
             return new List<Teachers>()

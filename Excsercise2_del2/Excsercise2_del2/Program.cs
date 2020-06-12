@@ -69,10 +69,11 @@ namespace Excsercise2_del2
 
             Console.WriteLine("Sing in is succesifully. Press enter for log in");
             Console.WriteLine("-----------------------------------------------");
+            Console.ReadLine();
             var ThreeTimes = Authentication.ThreeTimes;
             string logInStudents;
             string logPassStudents;
-        
+            Console.WriteLine("LOG IN");
             //var data = new DataBase();
             while (ThreeTimes)
             {
@@ -90,29 +91,9 @@ namespace Excsercise2_del2
                 }
             }
 
-        teacherPart:
-            string logInTeachers;
-            string logPassTeachers;
-            Console.WriteLine("Sing in is succesifully. Press enter for log in");
-            Console.WriteLine("-----------------------------------------------");
-            while (Authentication.ThreeTimes)
-            {
-
-                Console.WriteLine("____________________");
-                Console.WriteLine("Enter your user name: ");
-                logInTeachers = Console.ReadLine();
-
-              
-                Console.WriteLine("____________________");
-                Console.WriteLine("Enter your password: ");
-                logPassTeachers = Console.ReadLine();
-                if (logInTeachers == teachers.UserName || logPassTeachers == teachers.Password)
-                {
-                    goto teacherLog;
-                }
-            }
+        
         another:
-            Console.WriteLine("Log in is succesifully. Press enter for log in");
+            Console.WriteLine("Log in is succesifully.");
             Console.WriteLine("-----------------------------------------------");
             dataBaseStudents.ForEach(p => Console.WriteLine($"Student: {p.UserName}"));
             Console.WriteLine("Press Enter and start the test. GOOD LUCK");
@@ -160,7 +141,7 @@ namespace Excsercise2_del2
             choiceNum = int.Parse(Console.ReadLine());
             DataBase.FifthQuestPounts(choiceNum);
 
-            
+         
             Console.WriteLine("You Have: {0} - Points",DataBase.Points);
             //int a = DataBase.Points;
             //students.SumOfPoints = a;
@@ -168,14 +149,35 @@ namespace Excsercise2_del2
 
             
             Console.WriteLine(students.SumOfPoints);
-            Console.WriteLine("Thank you about finish your text. The teacher will publish the grades in a few days");
+            Console.WriteLine("Thank you about finish your test. The teacher will publish the grades in a few days");
             Console.WriteLine("Log Out");
             
 
             Console.ReadLine();
             goto logout;
 
-            teacherLog:
+          
+        teacherPart:
+            string logInTeachers;
+            string logPassTeachers;
+            Console.WriteLine("Sing in is succesifully. Press enter for log in");
+            Console.WriteLine("-----------------------------------------------");
+            while (Authentication.ThreeTimes)
+            {
+
+                Console.WriteLine("____________________");
+                Console.WriteLine("Enter your user name: ");
+                logInTeachers = Console.ReadLine();
+
+
+                Console.WriteLine("____________________");
+                Console.WriteLine("Enter your password: ");
+                logPassTeachers = Console.ReadLine();
+                if (logInTeachers == teachers.UserName || logPassTeachers == teachers.Password)
+                {
+                    break;
+                }
+            }
             Console.WriteLine("Welcome teacher {0}", teachers.UserName);
             Console.WriteLine("List of students with a completed and unfinished exam (PRESS ENTER)");
             Console.WriteLine("__________________________________________________________");
@@ -184,7 +186,10 @@ namespace Excsercise2_del2
             Console.WriteLine("--------------------------------------");
             teachers.ShowStudentNotFinishTEst();
             Console.WriteLine("--------------------------------------");
-            teachers.ShowStudentsPoint();
+            Console.WriteLine(" (0 - 5)Points: Grade 1 \n (5 - 9)Points: Grade 2 \n" +
+                "(9 - 13)Points: Grade 3 \n (13 - 16)Points: Grade 4 \n" +
+                "(16 - 18)Points: Grade 1 \n " +
+                " Enter Grade ");
             Console.WriteLine("-----------------------------------------------");
             int grade = int.Parse(Console.ReadLine());
             teachers.SetGrade = grade;
