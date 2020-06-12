@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T/QS1XOwx2UsNSi63HKZyfXvO1pa8tEUK0MenA2r+dlQfqm2+aOMZgxbGZCIB6WiAkx+rVipCNPvjUiU+MeN2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vikto\\source\\repos\\Excsercise2_del2\\Excsercise2_del2\\Excsercise2_del2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vikto\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
