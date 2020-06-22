@@ -12,7 +12,7 @@ namespace ConsoleApp1.Entities
         public string Color { get; set; }
         public Wheecles()
         {
-            Id = Id + 1;
+           
         }
         public Wheecles(int id, string name, string type, string color)
         {
@@ -22,11 +22,6 @@ namespace ConsoleApp1.Entities
             Color = color;
         }
         public abstract void ShowInfo();
-        public int returnId()
-        {
-            Random ran = new Random();
-            Id = ran.Next(1, 23);
-            return Id;
-        }
+       
     }
 }
