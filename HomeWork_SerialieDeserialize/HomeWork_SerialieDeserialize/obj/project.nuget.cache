@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YsDE+WM47sKzsT43GzC37SIBYIHv9XlZAJ4LgUEfbOpH50uy/83S8q4tRbFGbZahnAOb5hmI9ZIE6QXZUndw/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vikto\\source\\repos\\HomeWork_SerialieDeserialize\\HomeWork_SerialieDeserialize\\HomeWork_SerialieDeserialize.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vikto\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

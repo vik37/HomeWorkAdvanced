@@ -1,0 +1,14 @@
+C:\Users\vikto\source\repos\HomeWork_SerialieDeserialize\HomeWork_SerialieDeserialize\bin\Debug\netcoreapp3.1\HomeWork_SerialieDeserialize.exe
+C:\Users\vikto\source\repos\HomeWork_SerialieDeserialize\HomeWork_SerialieDeserialize\bin\Debug\netcoreapp3.1\HomeWork_SerialieDeserialize.deps.json
+C:\Users\vikto\source\repos\HomeWork_SerialieDeserialize\HomeWork_SerialieDeserialize\bin\Debug\netcoreapp3.1\HomeWork_SerialieDeserialize.runtimeconfig.json
+C:\Users\vikto\source\repos\HomeWork_SerialieDeserialize\HomeWork_SerialieDeserialize\bin\Debug\netcoreapp3.1\HomeWork_SerialieDeserialize.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\HomeWork_SerialieDeserialize\HomeWork_SerialieDeserialize\bin\Debug\netcoreapp3.1\HomeWork_SerialieDeserialize.dll
+C:\Users\vikto\source\repos\HomeWork_SerialieDeserialize\HomeWork_SerialieDeserialize\bin\Debug\netcoreapp3.1\HomeWork_SerialieDeserialize.pdb
+C:\Users\vikto\source\repos\HomeWork_SerialieDeserialize\HomeWork_SerialieDeserialize\obj\Debug\netcoreapp3.1\HomeWork_SerialieDeserialize.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\HomeWork_SerialieDeserialize\HomeWork_SerialieDeserialize\obj\Debug\netcoreapp3.1\HomeWork_SerialieDeserialize.AssemblyInfo.cs
+C:\Users\vikto\source\repos\HomeWork_SerialieDeserialize\HomeWork_SerialieDeserialize\obj\Debug\netcoreapp3.1\HomeWork_SerialieDeserialize.dll
+C:\Users\vikto\source\repos\HomeWork_SerialieDeserialize\HomeWork_SerialieDeserialize\obj\Debug\netcoreapp3.1\HomeWork_SerialieDeserialize.pdb
+C:\Users\vikto\source\repos\HomeWork_SerialieDeserialize\HomeWork_SerialieDeserialize\obj\Debug\netcoreapp3.1\HomeWork_SerialieDeserialize.genruntimeconfig.cache
+C:\Users\vikto\source\repos\HomeWork_SerialieDeserialize\HomeWork_SerialieDeserialize\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\vikto\source\repos\HomeWork_SerialieDeserialize\HomeWork_SerialieDeserialize\obj\Debug\netcoreapp3.1\HomeWork_SerialieDeserialize.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\HomeWork_SerialieDeserialize\HomeWork_SerialieDeserialize\obj\Debug\netcoreapp3.1\HomeWork_SerialieDeserialize.csproj.CopyComplete
