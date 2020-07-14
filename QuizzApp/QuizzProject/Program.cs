@@ -164,6 +164,7 @@ namespace QuizzProject
             
                 Teachers teacherOne = new Teachers();
             logs:
+                
                 Console.WriteLine("Register: Press 1, Log in Press 2");
                 int logNum;
                 bool isItRegister = int.TryParse(Console.ReadLine(), out logNum);
@@ -204,7 +205,9 @@ namespace QuizzProject
                     password = Console.ReadLine().Trim();
                     registerTeacher.LogIn(username, password, teacherOne);
                     var teacher1 = teachersDb.GetById(1);
+                    teacherOne.students.AddRange(studentDb.GetAll());
                     Console.WriteLine(teacher1.ShowInfo());
+                    Console.ResetColor();
                     Console.WriteLine("============================");
                     Console.WriteLine("Your students");
                     teacher1.ShowStudents();

@@ -7,7 +7,7 @@ namespace QuizzProject.Interface
 {
     public interface ITeachers
     {
-        public List<Students> students { get; set; }
+        List<Students> students { get; set; }
 
         void ShowStudents();
     }

@@ -25,7 +25,7 @@ namespace QuizzProject.Entities
         {
             foreach (var item in students)
             {
-                Console.WriteLine($"User name {item.Username}");
+                Console.WriteLine($"NAME: {item.Username}");
 
             }
         }
